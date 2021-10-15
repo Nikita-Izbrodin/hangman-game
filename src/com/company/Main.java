@@ -22,7 +22,7 @@ public class Main {
         //System.out.println(random); // testing to see if random works
 
         if (random = 0) {
-            
+
         }
     }
 }
